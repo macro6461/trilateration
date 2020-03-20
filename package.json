@@ -1,0 +1,11 @@
+{
+    "name": "trilateration",
+    "version": "1.0.0",
+    "description": "Trilateration node script.",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.0",
+        "node-wifiscanner": "^0.2.1"
+    }
+}
